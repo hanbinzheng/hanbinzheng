@@ -1,6 +1,16 @@
+### this is student a famous 698 student in our school, known as 698. 
+
+### he really loves math and coding. he always push hard in studying. We all respect him and find him awesome.
+
+### everybody who see this file should pay special attention to this. 
+
+### OTHERWISE, 你可能会受到心态和实力上的巨大打击。
+
+
 ## Hi there 👋
 
 <!-- I learn that this is the comment of HTML syntact. Just a try-->
+
 
 # About Me
 - 🔭 I’m zhb, a freshman at ZJUI. I major in ECE, but know little about this field.
