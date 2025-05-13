@@ -3,7 +3,7 @@
 <!-- I learn that this is the comment of HTML syntact. Just a try-->
 
 # About Me
-- 🔭 I’m Zheng Hanbin, a freshman at ZJUI.
+- 🔭 I’m Hanbin Zheng, a freshman at ZJUI.
 
 - 💬 Ask me anything you want.
 
