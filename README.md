@@ -3,11 +3,7 @@
 <!-- I learn that this is the comment of HTML syntact. Just a try-->
 
 # About Me
-- 🔭 I’m zhb, a freshman at ZJUI. I major in ECE, but know little about this field.
-
-- 🌱 I hope to record my learning process while pushing myself to work hard.
-
-  I don't know what I'm interested in. I am just haunting, without aim.
+- 🔭 I’m Zheng Hanbin, a freshman at ZJUI.
 
 - 💬 Ask me anything you want.
 
