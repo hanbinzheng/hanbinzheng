@@ -2,14 +2,11 @@
 
 <!-- I learn that this is the comment of HTML syntact. Just a try-->
 
-# About Me
-- 🔭 I’m Hanbin Zheng, a freshman at ZJUI.
+![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=tokyonight)
 
-- 💬 Ask me anything you want.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact)
 
-  My personal email address is ```hanbinzheng54@gmail.com```, but I seldom check it.
-
-  So, if you want to contact with me, ```hanbin.24@intl.zju.edu.cn``` or ```hanbinz2@illinois.edu``` is better.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanbinzheng&theme=tokyonight)
 
 
 <!--
