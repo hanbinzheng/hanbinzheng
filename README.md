@@ -4,10 +4,6 @@
 
 ![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanbinzheng&theme=tokyonight)
-
 
 <!--
 **zhb222222/zhb222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
