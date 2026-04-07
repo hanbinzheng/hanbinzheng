@@ -1,6 +1,6 @@
 # Hi there
 
-[![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=dark&hide_border=true)
 
 ### 🛠 Tech Stack
 
@@ -10,8 +10,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact&theme=dark&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?user=hanbinzheng&label=Views&color=grey&style=flat-square)
