@@ -1,15 +1,12 @@
-# Hi there
+* 👋 Hi there.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanbinzheng&theme=tokyo-night&hide_border=true" alt="hanbinzheng's github activity graph" width="99%">
+  </a>
+</div>
 
-### 🛠 Tech Stack
-
-- **Languages:** C, Cpp, Python
-- **Robotics:** STM32, ROS2, Control Theory, Reinforcement Learning
-- **Tools:** Doom Emacs, Vim/Neovim, Makefile, Linux
-
----
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact&theme=dark&hide_border=true)
-
-![](https://komarev.com/ghpvc/?user=hanbinzheng&label=Views&color=grey&style=flat-square)
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hanbinzheng&show_icons=true&hide_border=true&theme=radical" alt="hanbinzheng's stats" width="56%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanbinzheng&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="hanbinzheng's lang" width="42.7%">
+</div>
