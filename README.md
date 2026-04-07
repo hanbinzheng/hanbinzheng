@@ -1,21 +1,25 @@
-# Hi there 👋
+# Hi there
 
-<!-- I learn that this is the comment of HTML syntact. Just a try-->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Hanbin's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbinzheng&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="170" />
+</p>
 
-![Hanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbinzheng&show_icons=true&theme=tokyonight)
+### 🛠 Tech Stack & Tools
 
+- **Languages:** C, C++, Python
+- **Embedded & Robotics:** STM32, ROS2, Control Theory, Reinforcement Learning
+- **Tools:** Doom Emacs, Vim/Neovim, Makefile, Git, Linux
 
-<!--
-**zhb222222/zhb222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Activity
 
-Here are some ideas to get you started:
+![GitHub Metrics](https://metrics.lecoq.io/hanbinzheng?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanbinzheng&theme=tokyonight&hide_border=true)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?user=hanbinzheng&label=Profile%20views&color=blue&style=flat" alt="Views" />
+</p>
